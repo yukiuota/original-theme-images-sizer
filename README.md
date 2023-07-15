@@ -1,1 +1,2 @@
 # original-theme-images-sizer
+WordPressの管理画面から画像サイズを設定できるようにするプラグインです。
